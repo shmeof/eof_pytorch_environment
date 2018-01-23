@@ -18,4 +18,6 @@ Mac下，PyTorch环境配置
     # 设置搜索时显示通道地址
     conda config --set show_channel_urls yes
   参考：https://www.jianshu.com/p/2f3be7781451
-2、
+2、PyTorch
+  10分钟快速入门PyTorch (0)
+  https://zhuanlan.zhihu.com/p/26854386
